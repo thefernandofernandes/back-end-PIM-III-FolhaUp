@@ -11,7 +11,7 @@ const myDataSource = new DataSource({
     "host": "berry.db.elephantsql.com",
     port: 5432,
     username: "fazovfha",
-    "password": "4I2IfDewtbUkw9y7P7W2lol-D3B9vxW6",
+    "password": "***********",
     database: "fazovfha",    
     entities: [Beneficio, Funcionario, Departamento, Desconto, FolhaPagamento, Empresa],    
     logging: true,
